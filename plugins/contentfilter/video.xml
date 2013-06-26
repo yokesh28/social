@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<install version="2.2" type="plugin" group="contentfilter" method="upgrade">
+    <name>Content Filter - Video</name>
+    <author>Anahita Social Networking Project</author>
+    <creationDate>January 22, 2013</creationDate>
+    <copyright>rmd Studio/Peerglobe Technology</copyright>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <authoremai />
+    <authorurl>Anahitapolis.com</authorurl>
+   	<version>2.2.4</version>
+	<release>Birth</release>
+    <description>Video Content Filter Plugin</description>
+    <params />
+    <files>
+        <filename plugin="video">video.php</filename>        
+    </files>
+</install>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<install version="2.2" type="plugin" group="installer" method="upgrade">
+    <name>Installer - Core</name>
+    <author>Anahita Social Networking Project</author>
+    <creationDate>January 22, 2013</creationDate>
+    <copyright>rmd Studio/Peerglobe Technology</copyright>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <authoremai />
+    <authorurl>Anahitapolis.com</authorurl>
+   	<version>2.2.4</version>
+	<release>Birth</release>
+    <description>Core System Installer</description>
+    <params />
+    <files>
+        <filename plugin="core">core.php</filename>        
+    </files>
+</install>
